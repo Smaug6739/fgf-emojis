@@ -1,0 +1,22 @@
+{
+  "name": "fgf-emojis",
+  "version": "1.0.0",
+  "description": "A list of emojis for fgf project",
+  "main": "list.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smaug6739/fgf-emojis.git"
+  },
+  "author": "Smaug6739",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Smaug6739/fgf-emojis/issues"
+  },
+  "homepage": "https://github.com/Smaug6739/fgf-emojis#readme",
+  "devDependencies": {
+    "@types/node": "^16.4.13"
+  }
+}
